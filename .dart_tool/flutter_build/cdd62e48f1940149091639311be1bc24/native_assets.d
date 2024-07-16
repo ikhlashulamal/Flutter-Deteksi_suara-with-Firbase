@@ -1,0 +1,1 @@
+ C:\\Users\\IDEAPAD\ GAMING\\emotion_detection_new\\SpeechEmotionRecognition-main-FrontEnd\\.dart_tool\\flutter_build\\cdd62e48f1940149091639311be1bc24\\native_assets.yaml: 
